@@ -4,13 +4,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Aluno_controller extends CI_Controller {
     
-    public function __construct() {
+    public function __construct()feafafa {
         parent::__construct();
     }
 
     //Carrega a view aluno ( ALTERAR VIEW )
     public function index() {
-       echo "Opss, errrouuu!";
+       echo "Opss, errrouu!";
     }
 
     public function carregarViewCadastroAluno() {
